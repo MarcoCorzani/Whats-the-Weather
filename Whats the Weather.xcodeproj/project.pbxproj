@@ -13,6 +13,7 @@
 		A92AD09C1A5C5C98001249B9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A92AD09B1A5C5C98001249B9 /* Images.xcassets */; };
 		A92AD09F1A5C5C98001249B9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A92AD09D1A5C5C98001249B9 /* LaunchScreen.xib */; };
 		A92AD0AB1A5C5C99001249B9 /* Whats_the_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A92AD0AA1A5C5C99001249B9 /* Whats_the_WeatherTests.swift */; };
+		A92AD0B51A5C5DBD001249B9 /* landschaft.png in Resources */ = {isa = PBXBuildFile; fileRef = A92AD0B41A5C5DBD001249B9 /* landschaft.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A92AD0A41A5C5C99001249B9 /* Whats the WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats the WeatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A92AD0A91A5C5C99001249B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A92AD0AA1A5C5C99001249B9 /* Whats_the_WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_the_WeatherTests.swift; sourceTree = "<group>"; };
+		A92AD0B41A5C5DBD001249B9 /* landschaft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = landschaft.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A92AD0911A5C5C98001249B9 /* Whats the Weather */,
 				A92AD0A71A5C5C99001249B9 /* Whats the WeatherTests */,
 				A92AD0901A5C5C98001249B9 /* Products */,
+				A92AD0B41A5C5DBD001249B9 /* landschaft.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A92AD09A1A5C5C98001249B9 /* Main.storyboard in Resources */,
+				A92AD0B51A5C5DBD001249B9 /* landschaft.png in Resources */,
 				A92AD09F1A5C5C98001249B9 /* LaunchScreen.xib in Resources */,
 				A92AD09C1A5C5C98001249B9 /* Images.xcassets in Resources */,
 			);
